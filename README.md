@@ -35,7 +35,7 @@ Using SQL, we analyze this data to extract meaningful business intelligence.
 ## 🛠 Technologies Used
 
 - SQL (PostgreSQL syntax)
-- PgAdmin or any SQL-compatible IDE
+- PgAdmin
 
 ---
 
