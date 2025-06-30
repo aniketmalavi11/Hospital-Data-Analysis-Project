@@ -36,6 +36,7 @@ Using SQL, we analyze this data to extract meaningful business intelligence.
 
 - SQL (PostgreSQL)
 - PgAdmin
+- Power BI
 
 ---
 
@@ -47,13 +48,6 @@ Using SQL, we analyze this data to extract meaningful business intelligence.
 - Normalizing metrics (e.g., expenses per day)
 - Monthly grouping using `DATE_TRUNC`
 
----
-
-## 📊 Optional Enhancements
-
-- Add sample `.csv` or `.sql` data for others to run
-- Visualize results using Python (Pandas/Matplotlib/Seaborn)
-- Create stored procedures or SQL views for automation
 
 ---
 
