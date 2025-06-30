@@ -36,7 +36,7 @@ Using SQL, we analyze this data to extract meaningful business intelligence.
 
 - SQL (PostgreSQL)
 - PgAdmin
-- Power BI
+
 
 ---
 
